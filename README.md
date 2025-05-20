@@ -71,7 +71,7 @@
 | I must go now. | 我現在必須走了。 |
 | Please give me a cup of water. | 請給我一杯水。 |
 ![Infer](assets/infer.png)
-![TKinter](assets/demo.png)
+![TKinter](assets/translation_interface.png)
 
 ---
 ## 評估指標
