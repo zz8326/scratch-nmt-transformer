@@ -52,14 +52,14 @@
 
 1. 準備好 \`cmn.txt\`（每行英文[TAB]中文）
 2. 訓練：
-   \`\`\`bash
+   ```bash
    python train.py
-   \`\`\`
+   ```
 3. 推理（CLI/GUI/Tkinter 介面）：
-   \`\`\`bash
+   ```bash
    python infer.py
    python app.py
-   \`\`\`
+   ```
 
 ---
 
